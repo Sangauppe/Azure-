@@ -1,0 +1,18 @@
+IaaS (Infrastructure as a Service):
+
+IaaS provides virtualized computing resources over the internet. It abstracts the underlying hardware (servers, storage, networking) and provides it as a service.
+Customers can rent virtual machines, storage, and other infrastructure components on a pay-as-you-go basis.
+Example: Microsoft Azure Virtual Machines, Amazon Web Services (AWS) EC2, Google Compute Engine.
+PaaS (Platform as a Service):
+
+PaaS provides a platform allowing customers to develop, run, and manage applications without dealing with the underlying infrastructure.
+It typically includes development tools, middleware, database management systems, and runtime environments.
+PaaS offerings abstract away much of the complexity of setting up and managing infrastructure, enabling developers to focus on building and deploying applications.
+Example: Azure App Service, AWS Elastic Beanstalk, Google App Engine.
+SaaS (Software as a Service):
+
+SaaS delivers software applications over the internet on a subscription basis. Users access these applications via a web browser or API without needing to install or maintain any software locally.
+The software is centrally hosted and managed by the service provider.
+SaaS eliminates the need for organizations to install, maintain, and update software on individual devices, reducing IT overhead and complexity.
+Example: Microsoft Office 365, Google Workspace (formerly G Suite), Salesforce, Dropbox.
+In summary, IaaS provides basic infrastructure components, PaaS offers platforms and development tools for building and deploying applications, and SaaS delivers complete software applications over the internet. Each model offers different levels of abstraction and management responsibilities, allowing customers to choose the level of control and flexibility that best suits their needs.
