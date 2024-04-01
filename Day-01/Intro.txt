@@ -1,0 +1,24 @@
+Service Level Requirement (SLR) for Azure Cloud Services:
+
+SLI (Service Level Indicator):
+
+When defining SLRs for Azure Cloud services, it's essential to specify the SLIs that will be used to measure the performance and behavior of the services.
+SLIs serve as the foundational metrics that will be monitored to ensure the service meets its performance targets.
+Examples of SLIs for Azure Cloud services might include:
+Average response time for Azure Virtual Machines.
+Availability percentage for Azure App Service.
+Error rate for Azure SQL Database.
+These SLIs are chosen based on the specific requirements and expectations of the stakeholders and should align with the key aspects of service performance and reliability.
+SLO (Service Level Objective):
+
+SLRs also include the definition of SLOs, which set specific targets or goals based on the SLIs.
+SLOs represent the desired level of performance or reliability that the service should achieve.
+For example, an SLO might specify that the average response time for Azure Virtual Machines should be less than 500 milliseconds, based on the SLI of average response time.
+SLOs help translate high-level business requirements into measurable objectives that can be monitored and managed.
+SLA (Service Level Agreement):
+
+SLAs are then established based on the SLRs, specifying the formal agreement between the service provider (Microsoft Azure) and the customer regarding the level of service.
+SLAs define the consequences for failing to meet the agreed-upon SLOs and SLIs, such as penalties or refunds.
+They serve as a contractual commitment to provide the specified level of service to the customer.
+In summary, SLIs are an integral part of SLRs for Azure Cloud services, as they define the metrics that will be used to measure service performance. These SLIs are then used to establish SLOs, which set specific targets for service performance and reliability. Together, SLIs and SLOs form the basis for defining SLAs, which formalize the agreement between the service provider and the customer regarding service levels and expectations.
+
